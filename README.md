@@ -119,11 +119,6 @@ I enjoy building end-to-end ML systems—from data preprocessing and model devel
 - 💡 Regularly practicing SQL and Data Structures
 - 🔬 Exploring Explainable AI and Quantitative Finance
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekG-cloud&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ---
 
