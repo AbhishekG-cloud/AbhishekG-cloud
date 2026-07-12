@@ -110,18 +110,18 @@ I enjoy building end-to-end ML systems—from data preprocessing and model devel
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekG-cloud&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekG-cloud&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhishekG-cloud&hide_border=true"/>
-</p>
 
 
+## 📊 GitHub Activity
+
+- 🚀 Building production-ready Machine Learning projects
+- 📚 Currently learning Bayesian Statistics & MLOps
+- 💡 Regularly practicing SQL and Data Structures
+- 🔬 Exploring Explainable AI and Quantitative Finance
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekG-cloud&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
