@@ -113,13 +113,17 @@ I enjoy building end-to-end ML systems—from data preprocessing and model devel
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekG&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekG&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekG-cloud&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekG-cloud&layout=compact&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhishekG&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AbhishekG-cloud&hide_border=true"/>
 </p>
+
+
+
+
 
 ---
 
